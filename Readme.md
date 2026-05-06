@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m currently learning Java Full Stack Development at IZEON Innovative Solutions as a Java Trainee.<br>🌱 I’m looking to collaborate on Java, React, and Full-Stack Projects.<br>💡 Fun fact: I work across the whole stack —<br>  🎨 Front-end: HTML, CSS, Bootstrap, JavaScript, React.js<br>  ⚙️ Back-end: Java (Spring Boot, etc.)<br>  🗄️ Database: MySQL
+👋 Hi! I’m currently learning Java Full Stack Development.<br>🌱 I’m looking to collaborate on Java, React, and Full-Stack Projects.<br>💡 Fun fact: I work across the whole stack —<br>  🎨 Front-end: HTML, CSS, Bootstrap, JavaScript, React.js<br>  ⚙️ Back-end: Java (Spring Boot, etc.)<br>  🗄️ Database: MySQL
 
 
 ## 🌐 Socials:
